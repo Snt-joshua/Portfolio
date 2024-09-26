@@ -1,0 +1,21 @@
+.or-text {
+
+	color: white;
+
+	text-align: center;
+
+	margin-top: 20px;
+
+}
+
+.input-container {
+
+	background-color: black;
+
+	padding: 10px;
+
+	border-radius: 10px;
+
+	border: 1px solid white;
+
+	margin-top: 20px;
